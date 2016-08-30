@@ -1,46 +1,48 @@
+//@flow
+
 import React, { Component } from 'react';
 import {
-  StyleSheet,
   Text,
   View
 } from 'react-native';
+import {pushItem,removeItem,updateItem,watchItems,unWatchItems} from '../actions/items';
+import {connect} from 'react-redux';
+import AddItem from './AddItem';
+import Items from './Items';
 
 class TheCall extends Component {
+
+  componentDidMount(){
+    this.props.watchItems();
+  }
+
+  componentWillUnmount(){
+    this.props.unWatchItems();
+  }
+
   render() {
     return (
-      <View style={styles.container}>
-        <Text style={styles.welcome}>
-          Welcome to React Native!
-        </Text>
-        <Text style={styles.instructions}>
-          To get started, edit index.ios.js
-        </Text>
-        <Text style={styles.instructions}>
-          Press Cmd+R to reload,{'\n'}
-          Cmd+D or shake for dev menu
-        </Text>
+      <View>
+        <AddItem pushItem={this.props.pushItem}/>
+        <Items items={this.props.items} removeItem={this.props.removeItem} updateItem={this.props.updateItem}/>
       </View>
     );
   }
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-  },
-  welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
-  },
-  instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
-  },
-});
+const mapStateToProps = ({items})=>{
+  return {items};
+}
 
-export default TheCall
+const mapDispatchToProps = (dispatch) => {
+  return {
+    pushItem: (item)=>dispatch(pushItem(item)),
+    removeItem: (_key)=>dispatch(removeItem(_key)),
+    updateItem: (_key,item)=>dispatch(updateItem(_key,item)),
+    watchItems: ()=>dispatch(watchItems()),
+    unWatchItems: ()=>dispatch(unWatchItems())
+  }
+}
+
+export default
+connect(mapStateToProps,mapDispatchToProps) (TheCall)
