@@ -10,7 +10,7 @@ import {
   TouchableWithoutFeedback
 } from 'react-native';
 
-class AddItem extends Component {
+class Items extends Component {
 
   constructor(props) {
     super(props);
@@ -60,10 +60,10 @@ var styles = StyleSheet.create({
   },
 });
 
-AddItem.propTypes={
+Items.propTypes={
   items: PropTypes.array.isRequired,
   removeItem: PropTypes.func.isRequired,
   updateItem: PropTypes.func.isRequired,
 }
 
-export default AddItem
+export default Items
