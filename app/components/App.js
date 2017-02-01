@@ -9,6 +9,7 @@ import {pushItem,removeItem,updateItem,watchItems,unWatchItems} from '../actions
 import {connect} from 'react-redux';
 import AddItem from './AddItem';
 import Items from './Items';
+import Register from './Register';
 
 class TheCall extends Component {
 
@@ -25,6 +26,7 @@ class TheCall extends Component {
       <View>
         <AddItem pushItem={this.props.pushItem}/>
         <Items items={this.props.items} removeItem={this.props.removeItem} updateItem={this.props.updateItem}/>
+        <Register/>
       </View>
     );
   }

@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Profiler/RCTPerfMonitor.m \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Profiler/RCTFPSGraph.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/CSSLayout/CSSLayout.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/CSSLayout/CSSMacros.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Views/RCTComponent.h

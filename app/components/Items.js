@@ -41,6 +41,7 @@ class Items extends Component {
       <ListView
       style={styles.container}
       dataSource={this.state.dataSource}
+      enableEmptySections
       renderRow={(data) =>
         <TouchableWithoutFeedback onPress={()=>this._onPress(data._key)} onLongPress={ () => this._onLongPress(data._key) }>
           <View >
