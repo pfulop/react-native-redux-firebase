@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/fulop/newCall/node_modules/react-native/Libraries/Image/RCTImageCache.m \
+  /Users/fulop/newCall/node_modules/react-native/Libraries/Image/RCTImageCache.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageLoader.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/fulop/newCall/node_modules/react-native/Libraries/Image/RCTImageUtils.h

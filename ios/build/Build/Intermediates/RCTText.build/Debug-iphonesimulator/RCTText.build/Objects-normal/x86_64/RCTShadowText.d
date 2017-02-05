@@ -1,22 +1,34 @@
 dependencies: \
-  /Users/fulop/react-native-redux-firebase/node_modules/react-native/Libraries/Text/RCTShadowText.m \
-  /Users/fulop/react-native-redux-firebase/node_modules/react-native/Libraries/Text/RCTShadowText.h \
-  ../../React/Views/RCTShadowView.h ../../React/CSSLayout/CSSLayout.h \
-  ../../React/CSSLayout/CSSMacros.h ../../React/Views/RCTComponent.h \
-  ../../React/Base/RCTRootView.h ../../React/Base/RCTBridge.h \
-  ../../React/Base/RCTBridgeDelegate.h \
-  ../../React/Base/RCTJavaScriptLoader.h \
-  ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \
-  ../../React/Base/RCTFrameUpdate.h ../../React/Base/RCTInvalidating.h \
-  ../../React/Views/RCTTextDecorationLineType.h \
-  ../../React/Modules/RCTAccessibilityManager.h \
-  ../../React/Modules/RCTUIManager.h ../../React/Views/RCTViewManager.h \
-  ../../React/Base/RCTConvert.h ../../React/Views/RCTAnimationType.h \
-  ../../React/Views/RCTBorderStyle.h ../../React/Base/RCTLog.h \
-  ../../React/Base/RCTAssert.h ../../React/Views/RCTPointerEvents.h \
-  ../../React/Base/RCTEventDispatcher.h ../../React/Views/UIView+React.h \
-  /Users/fulop/react-native-redux-firebase/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
-  /Users/fulop/react-native-redux-firebase/node_modules/react-native/Libraries/Text/RCTText.h \
-  ../../React/Base/RCTUtils.h \
-  /Users/fulop/react-native-redux-firebase/node_modules/react-native/Libraries/Text/RCTTextView.h \
-  ../../React/Views/RCTView.h
+  /Users/fulop/newCall/node_modules/react-native/Libraries/Text/RCTShadowText.m \
+  /Users/fulop/newCall/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/fulop/newCall/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
+  /Users/fulop/newCall/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/fulop/newCall/node_modules/react-native/Libraries/Text/RCTTextView.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h

@@ -8,7 +8,8 @@ import {
   View,
   Text,
   TouchableNativeFeedback,
-  TouchableHighlight
+  TouchableHighlight,
+  Button,
 } from 'react-native';
 
 class AddItem extends Component {
@@ -19,10 +20,6 @@ class AddItem extends Component {
   }
 
   render() {
-    var TouchableElement = TouchableHighlight;
-    if (Platform.OS === 'android') {
-     TouchableElement = TouchableNativeFeedback;
-    }
     return (
       <View style={styles.container}>
         <TextInput
@@ -30,13 +27,10 @@ class AddItem extends Component {
         onChangeText={(text) => this.setState({text})}
         value={this.state.text}
         />
-        <TouchableElement
-        style={styles.button}
-        onPress={() => this.props.pushItem(this.state.text)}>
-        <View>
-          <Text>ADD!</Text>
-        </View>
-      </TouchableElement>
+        <Button
+        onPress={() => this.props.pushItem(this.state.text)}
+        title="ADD!"
+      />
       </View>
     );
   }
@@ -48,7 +42,7 @@ var styles = StyleSheet.create({
     flexDirection:'row',
     flexWrap: 'wrap',
     alignItems: 'center',
-    flex: 1
+    flex: 1,
   },
   textInput: {
     fontSize: 19,

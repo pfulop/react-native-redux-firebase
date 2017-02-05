@@ -1,19 +1,30 @@
 dependencies: \
-  /Users/fulop/react-native-redux-firebase/node_modules/react-native/Libraries/Text/RCTTextViewManager.m \
-  /Users/fulop/react-native-redux-firebase/node_modules/react-native/Libraries/Text/RCTTextViewManager.h \
-  ../../React/Views/RCTViewManager.h ../../React/Base/RCTBridgeModule.h \
-  ../../React/Base/RCTDefines.h ../../React/Base/RCTConvert.h \
-  ../../React/CSSLayout/CSSLayout.h ../../React/CSSLayout/CSSMacros.h \
-  ../../React/Views/RCTAnimationType.h \
-  ../../React/Views/RCTBorderStyle.h \
-  ../../React/Views/RCTTextDecorationLineType.h \
-  ../../React/Base/RCTLog.h ../../React/Base/RCTAssert.h \
-  ../../React/Views/RCTPointerEvents.h \
-  ../../React/Base/RCTEventDispatcher.h ../../React/Base/RCTBridge.h \
-  ../../React/Base/RCTBridgeDelegate.h \
-  ../../React/Base/RCTJavaScriptLoader.h \
-  ../../React/Base/RCTFrameUpdate.h ../../React/Base/RCTInvalidating.h \
-  ../../React/Views/UIView+React.h ../../React/Views/RCTComponent.h \
-  ../../React/Views/RCTShadowView.h ../../React/Base/RCTRootView.h \
-  /Users/fulop/react-native-redux-firebase/node_modules/react-native/Libraries/Text/RCTTextView.h \
-  ../../React/Views/RCTView.h
+  /Users/fulop/newCall/node_modules/react-native/Libraries/Text/RCTTextViewManager.m \
+  /Users/fulop/newCall/node_modules/react-native/Libraries/Text/RCTTextViewManager.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFont.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/fulop/newCall/node_modules/react-native/Libraries/Text/RCTConvert+Text.h \
+  /Users/fulop/newCall/node_modules/react-native/Libraries/Text/RCTTextView.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h

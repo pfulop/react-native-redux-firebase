@@ -1,7 +1,8 @@
 dependencies: \
-  /Users/fulop/react-native-redux-firebase/node_modules/react-native/Libraries/Network/RCTDataRequestHandler.m \
-  /Users/fulop/react-native-redux-firebase/node_modules/react-native/Libraries/Network/RCTDataRequestHandler.h \
-  ../../React/Base/RCTURLRequestHandler.h \
-  ../../React/Base/RCTBridgeModule.h ../../React/Base/RCTDefines.h \
-  ../../React/Base/RCTURLRequestDelegate.h \
-  ../../React/Base/RCTInvalidating.h
+  /Users/fulop/newCall/node_modules/react-native/Libraries/Network/RCTDataRequestHandler.m \
+  /Users/fulop/newCall/node_modules/react-native/Libraries/Network/RCTDataRequestHandler.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h

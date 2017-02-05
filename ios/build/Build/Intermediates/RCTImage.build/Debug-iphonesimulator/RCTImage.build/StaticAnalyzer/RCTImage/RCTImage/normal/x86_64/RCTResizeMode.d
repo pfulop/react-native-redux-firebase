@@ -1,9 +1,14 @@
 dependencies: \
-  /Users/fulop/react-native-redux-firebase/node_modules/react-native/Libraries/Image/RCTResizeMode.m \
-  /Users/fulop/react-native-redux-firebase/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
-  ../../React/Base/RCTConvert.h ../../React/CSSLayout/CSSLayout.h \
-  ../../React/CSSLayout/CSSMacros.h ../../React/Views/RCTAnimationType.h \
-  ../../React/Views/RCTBorderStyle.h \
-  ../../React/Views/RCTTextDecorationLineType.h \
-  ../../React/Base/RCTDefines.h ../../React/Base/RCTLog.h \
-  ../../React/Base/RCTAssert.h ../../React/Views/RCTPointerEvents.h
+  /Users/fulop/newCall/node_modules/react-native/Libraries/Image/RCTResizeMode.m \
+  /Users/fulop/newCall/node_modules/react-native/Libraries/Image/RCTResizeMode.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
