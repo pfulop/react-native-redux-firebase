@@ -1,3 +1,5 @@
+import firebase from 'firebase';
+
 export const LOGGING_IN = 'LOGGING_IN';
 export const LOGGED_IN = 'LOGGED_IN';
 export const CREATING_ACCOUNT = 'CREATING_ACCOUNT';
@@ -27,12 +29,13 @@ export function loginWithEmail(email, password){
   };
 }
 
-export function loginWithFacebook(){
+export function loginWithFacebook(accessToken){
   return (dispatch,_,firebaseApp)=>{
-    var provider = new firebaseApp.auth.FacebookAuthProvider();
-    firebaseApp.auth().signInWithPopup(provider).then(function(result) {
-      console.lof(result);
-    }).catch(function(error) {
+    dispatch({ type: LOGGING_IN});
+    const credential = firebase.auth.FacebookAuthProvider.credential(accessToken);
+    firebaseApp.auth().signInWithCredential(credential).then((user) => {
+      dispatch({ type: LOGGED_IN, user });
+    }).catch((error) => {
       console.log(error);
     });
   }

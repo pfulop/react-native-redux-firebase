@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/fulop/newCall/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
-  /Users/fulop/newCall/node_modules/react-native/React/Views/RCTActivityIndicatorView.h
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/React/Views/RCTActivityIndicatorView.h

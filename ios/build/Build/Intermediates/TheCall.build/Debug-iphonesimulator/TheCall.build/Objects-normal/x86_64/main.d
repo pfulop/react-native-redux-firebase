@@ -1,2 +1,2 @@
-dependencies: /Users/fulop/newCall/ios/TheCall/main.m \
-  /Users/fulop/newCall/ios/TheCall/AppDelegate.h
+dependencies: /Users/fulop/react-native-redux-firebase/ios/TheCall/main.m \
+  /Users/fulop/react-native-redux-firebase/ios/TheCall/AppDelegate.h

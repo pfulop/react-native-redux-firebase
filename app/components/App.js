@@ -4,6 +4,7 @@ import { TabNavigator } from 'react-navigation';
 
 import TheCall from './TheCall';
 import Register from './Register';
+import Add from './Add';
 
 const App = TabNavigator({
   Home: {
@@ -11,6 +12,9 @@ const App = TabNavigator({
   },
   Register: {
     screen: Register,
+  },
+  Add: {
+    screen: Add,
   },
   }, {
   tabBarOptions: {

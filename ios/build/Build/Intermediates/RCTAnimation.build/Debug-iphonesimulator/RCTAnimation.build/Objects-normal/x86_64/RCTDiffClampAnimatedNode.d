@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/fulop/newCall/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.m \
-  /Users/fulop/newCall/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h \
-  /Users/fulop/newCall/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
-  /Users/fulop/newCall/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
-  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.m \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/fulop/react-native-redux-firebase/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/fulop/react-native-redux-firebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/fulop/react-native-redux-firebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/fulop/react-native-redux-firebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h

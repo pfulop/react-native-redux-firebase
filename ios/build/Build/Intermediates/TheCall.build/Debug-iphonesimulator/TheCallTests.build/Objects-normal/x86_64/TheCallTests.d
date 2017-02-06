@@ -1,4 +1,5 @@
-dependencies: /Users/fulop/newCall/ios/TheCallTests/TheCallTests.m \
+dependencies: \
+  /Users/fulop/react-native-redux-firebase/ios/TheCallTests/TheCallTests.m \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIRemote.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h \
@@ -28,13 +29,13 @@ dependencies: /Users/fulop/newCall/ios/TheCallTests/TheCallTests.m \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestErrors.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestDefines.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.h \
-  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/fulop/newCall/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h
+  /Users/fulop/react-native-redux-firebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/fulop/react-native-redux-firebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/fulop/react-native-redux-firebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/fulop/react-native-redux-firebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/fulop/react-native-redux-firebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/fulop/react-native-redux-firebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/fulop/react-native-redux-firebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/fulop/react-native-redux-firebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/fulop/react-native-redux-firebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/fulop/react-native-redux-firebase/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h

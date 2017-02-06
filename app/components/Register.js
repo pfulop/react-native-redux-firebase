@@ -52,27 +52,28 @@ class Register extends Component {
         <TextInput secureTextEntry={true} value={password} onChangeText={password => this.setState({ password })} style={styles.textinput}/>
         <Button onPress={()=>registerWithEmail(email, password)} title="Register" color="white"/>
         <Button onPress={()=>loginWithEmail(email, password)} title="Login" color="white"/>
-        <Button onPress={()=>loginWithFacebook()} title="Facebook Login" color="white"/>
         <Text style={styles.label}>{auth.error}</Text>
         {loading && <Text style={styles.label}>Loading</Text>}
-        <LoginButton
-          publishPermissions={["publish_actions"]}
-          onLoginFinished={
-            (error, result) => {
-              if (error) {
-                alert("login has error: " + result.error);
-              } else if (result.isCancelled) {
-                alert("login is cancelled.");
-              } else {
-                AccessToken.getCurrentAccessToken().then(
-                  (data) => {
-                    alert(data.accessToken.toString())
-                  }
-                )
+        <View style={{alignSelf: 'center'}}>
+          <LoginButton
+            publishPermissions={["publish_actions"]}
+            onLoginFinished={
+              (error, result) => {
+                if (error) {
+                  alert("login has error: " + result.error);
+                } else if (result.isCancelled) {
+                  alert("login is cancelled.");
+                } else {
+                  AccessToken.getCurrentAccessToken().then(
+                    (data) => {
+                      this.props.loginWithFacebook(data.accessToken.toString());
+                    }
+                  )
+                }
               }
             }
-          }
-          onLogoutFinished={() => alert("logout.")}/>
+            onLogoutFinished={() => alert("logout.")}/>
+          </View>
       </View>
     );
   }
@@ -111,7 +112,7 @@ const mapDispatchToProps = (dispatch) => {
   return {
     registerWithEmail: (email, password)=>dispatch(registerWithEmail(email, password)),
     loginWithEmail: (email, password)=>dispatch(loginWithEmail(email, password)),
-    loginWithFacebook: (email, password)=>dispatch(loginWithFacebook(email, password)),
+    loginWithFacebook: (accessToken)=>dispatch(loginWithFacebook(accessToken)),
   }
 }
 
